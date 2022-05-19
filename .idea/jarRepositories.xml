@@ -4,6 +4,11 @@
     <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="central" />
+      <option name="url" value="http://192.168.17.10:8081/repository/maven-central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
       <option name="url" value="http://192.168.17.10:8081/repository/maven-demo-sonatype/" />
     </remote-repository>
     <remote-repository>
